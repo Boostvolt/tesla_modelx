@@ -135,7 +135,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>teslax</name>
+      <name>modelx</name>
     </Item>
   </Lights>
 </CVehicleModelInfoVarGlobal>
