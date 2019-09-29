@@ -1,14 +1,13 @@
-# wtf_teslax
+# tesla_modelx
 
 FiveM Tesla X Model with custom handling
 
 ## Requirements
 None
 
-## wtf_teslax
+## tesla_modelx
 
 - Tesla Model X
-    - 3D model from https://www.gta5-mods.com/vehicles/tesla-model-x-p90d
     - Custom handling, mimicking real-life expectations
         - Best in class acceleration: 0-60 ~4sec, 0-100 ~7sec
         - Limited top end due to increased drag: ~160mph
@@ -17,29 +16,29 @@ None
 
 ## Download & Installation
 
-This resource was developed alongside [wtf_ev], [wtf_tesla_supercharger]. This resource works without them, but you might be interested in installing them altogether.
+This resource was developed alongside [tesla_ev], [tesla_supercharger]. This resource works without them, but you might be interested in installing them altogether.
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/wtf-fivem-mods/wtf_teslax [wtf]/wtf_teslax/
+git clone https://github.com/boostvolt/tesla_modelx [tesla]/tesla_modelx/
 
-git clone https://github.com/wtf-fivem-mods/wtf_ev [wtf]/wtf_ev/
-git clone https://github.com/wtf-fivem-mods/wtf_tesla_supercharger [wtf]/wtf_tesla_supercharger/
+git clone https://github.com/boostvolt/tesla_ev [tesla]/tesla_ev/
+git clone https://github.com/boostvolt/tesla_supercharger [tesla]/tesla_supercharger/
 ```
 
 ### Manually
-- Download https://github.com/wtf-fivem-mods/wtf_teslax/archive/master.zip
-- Create and place in in `[wtf]/wtf_teslax` directory
+- Download https://github.com/boostvolt/tesla_modelx/archive/master.zip
+- Create and place in in `[tesla]/tesla_modelx` directory
 
 ## Installation
 - Add this in your `server.cfg`:
 
 ```lua
-start wtf_teslax
+start tesla_modelx
 -- if you downloaded related resources
-start wtf_ev
-start wtf_tesla_supercharger
+start tesla_ev
+start tesla_supercharger
 ```
 
 ## Screenshots
@@ -49,5 +48,5 @@ start wtf_tesla_supercharger
 ![photo_2019-04-14_00-43-29 (2)](https://user-images.githubusercontent.com/79330/56089930-4552ea80-5e4f-11e9-8ac3-8dbdf466dc5a.jpg)
 
 
-[wtf_ev]: https://github.com/wtf-fivem-mods/wtf_ev
-[wtf_tesla_supercharger]: https://github.com/wtf-fivem-mods/wtf_tesla_supercharger
+[wtf_ev]: https://github.com/boostvolt/tesla_ev
+[wtf_tesla_supercharger]: https://github.com/boostvolt/tesla_supercharger
