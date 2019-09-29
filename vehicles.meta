@@ -5,10 +5,10 @@
 
   <InitDatas>
    <Item>
-      <modelName>teslax</modelName>
-      <txdName>teslax</txdName>
-      <handlingId>teslax</handlingId>
-      <gameName>teslax</gameName>
+      <modelName>modelx</modelName>
+      <txdName>modelx</txdName>
+      <handlingId>modelx</handlingId>
+      <gameName>modelx</gameName>
       <vehicleMakeName>KARIN</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
