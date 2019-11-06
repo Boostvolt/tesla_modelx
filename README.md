@@ -9,10 +9,10 @@ None
 
 - Tesla Model X
     - Custom handling, mimicking real-life expectations
-        - Best in class acceleration: 0-60 ~4sec, 0-100 ~7sec
-        - Limited top end due to increased drag: ~160mph
-        - Better than average handling
-        - Low center of gravity, limited roll-over
+    - Best in class acceleration: 0-60 ~4sec, 0-100 ~7sec
+    - Limited top end due to increased drag: ~160mph
+    - Better than average handling
+    - Low center of gravity, limited roll-over
 
 ## Download & Installation
 
