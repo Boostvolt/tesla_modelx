@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>teslax</handlingName>
+      <handlingName>modelx</handlingName>
       <fMass value="2438.96" />
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="85.0" />
